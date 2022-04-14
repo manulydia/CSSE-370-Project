@@ -1,4 +1,4 @@
-# CSSE-370-Project
+# CSSE-350-Project
 
 Psudeo Code for Project
 
